@@ -7,5 +7,3 @@ pet = input("Tell us the name of a pet: \n ")
 #4. Combine the name of their city and pet and show them their band name.
 print("Well, "+users_name+ " your band name is: \n " + city + pet)
 #5. Make sure the input cursor shows on a new line:
-
-# Solution: https://replit.com/@appbrewery/band-name
